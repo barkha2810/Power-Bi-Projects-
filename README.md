@@ -1,5 +1,4 @@
-# Power-Bi-Projects
-🏥 Healthcare Analytics Dashboard – Power BI
+# Healthcare Analytics Dashboard – Power BI
 
 This project presents a dynamic Power BI dashboard focused on healthcare waiting list analysis, helping stakeholders track, evaluate, and optimize patient flow across categories.
 
@@ -33,4 +32,5 @@ The dashboard enables healthcare providers and analysts to:
 
  Screenshots / Demos 
 Dashboard Preview: (https://github.com/barkha2810/Power-Bi-Projects-/blob/main/Snapshot%20of%20the%20Dashboard.png)
+2nd Page (https://github.com/barkha2810/Power-Bi-Projects-/blob/main/Snapshot%20of%20Dashboard%20page%202.png)
 
