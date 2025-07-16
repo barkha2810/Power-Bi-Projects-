@@ -31,6 +31,7 @@ The dashboard enables healthcare providers and analysts to:
 	•	Make data-driven decisions for resource allocation
 
  Screenshots / Demos 
-Dashboard Preview: (https://github.com/barkha2810/Power-Bi-Projects-/blob/main/Snapshot%20of%20the%20Dashboard.png)
-2nd Page (https://github.com/barkha2810/Power-Bi-Projects-/blob/main/Snapshot%20of%20Dashboard%20page%202.png)
+Show what the dasboard looks like alt.text Example:
+ https://github.com/barkha2810/Power-Bi-Projects-/blob/main/Snapshot%20of%20the%20Dashboard.png
+2nd Page https://github.com/barkha2810/Power-Bi-Projects-/blob/main/Snapshot%20of%20Dashboard%20page%202.png
 
